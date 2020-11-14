@@ -1,0 +1,11 @@
+.ui.divided.middle.aligned.list {
+  width: 100%;
+}
+
+.ui.divided.list > .item {
+  margin-bottom: 20px;
+}
+
+.noteList-Inner {
+  padding: 14px !important;
+}
