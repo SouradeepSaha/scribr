@@ -1,5 +1,5 @@
 # Scribr - An automated note taking app
-This project was submitted to Garuda Hacks 2020 [Devpost Submissiion](https://devpost.com/software/scribr-7t9gpu) and was selected for the best pre-university hack.
+This project was submitted to Garuda Hacks 2020 [Devpost Submission](https://devpost.com/software/scribr-7t9gpu) and was selected for the best pre-university hack.
 
 ## Inspiration
 Simply put, students find the sudden transition to online lectures draining and lack motivation as it can be difficult to pay attention to online lectures. Not only are students not used to this new method of information delivery but the process can also be very repetitive and tiring as students adjust to their new digital learning environment. To lessen the load on students, our team developed Scribr with the goal of providing teachers an easier way to help their students with online education by reducing stress and making online education more accessible for students with various learning styles.
